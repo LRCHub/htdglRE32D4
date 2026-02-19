@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "さよならをキミに... feat. Spontania（feat. Spontania）",
+  "base_artist": "Tiara",
+  "createdAt": "2026-02-19T15:26:55.243517Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよならをキミに... feat. Spontania",
+      "artist": "Tiara",
+      "has_synced": false,
+      "path": "select/01_さよならをキミに..._feat._Spontania_Tiara.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならをキミに...",
+      "artist": "Tiara",
+      "has_synced": false,
+      "path": "select/pl_01_さよならをキミに..._Tiara.txt"
+    }
+  ]
+}
